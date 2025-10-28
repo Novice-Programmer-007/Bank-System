@@ -28,15 +28,6 @@ This project demonstrates the use of **classes**, **objects**, **structures**, a
 | **Encapsulation** | Keep data private and access it only through public methods |
 | **Static Data Member** | Track total balance of all accounts |
 | **Abstraction** | Hide internal logic from the user through a simple menu interface |
-
----
-
-## 💻 How to Run
-
-**Clone this repository**
-   ```bash
-   git clone https://github.com/Novice-Programmer-007/Bank-System.git
-   ```
    
 ---
 
@@ -73,5 +64,6 @@ Saim Raza
 ---
 
 ⭐ If you found this project helpful or well-organized, please consider giving it a star!
+
 
 
