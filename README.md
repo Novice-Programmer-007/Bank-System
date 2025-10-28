@@ -61,12 +61,16 @@ Design menu-driven console applications efficiently
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/Novice-Programmer-007/Bank-System.git
+      git clone https://github.com/your-username/Bank-System.git
    ```
+2. Run Project
+ 
+   main.cpp
 
 ---
 
 ⭐ If you found this project helpful or well-organized, please consider giving it a star!
+
 
 
 
