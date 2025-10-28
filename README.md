@@ -3,7 +3,6 @@
 ![Made with C++](https://img.shields.io/badge/Made%20with-C%2B%2B-blue.svg)
 ![OOP Project](https://img.shields.io/badge/OOP-Concepts-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A simple **Bank Account Management System** built using **Object-Oriented Programming (OOP)** principles in C++.  
 This project demonstrates the use of **classes**, **objects**, **structures**, and **static members** to manage customer accounts efficiently in a menu-driven console application.
@@ -37,3 +36,4 @@ This project demonstrates the use of **classes**, **objects**, **structures**, a
 1. **Clone this repository**
    ```bash
    git clone https://github.com/<your-username>/Bank-System.git
+
