@@ -33,7 +33,45 @@ This project demonstrates the use of **classes**, **objects**, **structures**, a
 
 ## 💻 How to Run
 
-1. **Clone this repository**
+**Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/Bank-System.git
+   git clone https://github.com/Novice-Programmer-007/Bank-System.git
+   ```
+   
+---
+
+🧾 Example Menu
+===== BANK MENU =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Display Account Details
+5. Show Total Bank Balance
+6. Exit
+
+---
+
+📚 Learning Outcomes
+
+Through this project, I learned how to:
+
+Apply OOP principles to real-world problems
+
+Use static members for shared data tracking
+
+Organize and protect data using encapsulation
+
+Design menu-driven console applications efficiently
+
+---
+
+👨‍💻 Author
+
+Saim Raza
+📫 GitHub Profile
+
+---
+
+⭐ If you found this project helpful or well-organized, please consider giving it a star!
+
 
