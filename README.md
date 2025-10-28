@@ -32,6 +32,7 @@ This project demonstrates the use of **classes**, **objects**, **structures**, a
 ---
 
 🧾 Example Menu
+
 ===== BANK MENU =====
 1. Create Account
 2. Deposit
@@ -56,14 +57,8 @@ Design menu-driven console applications efficiently
 
 ---
 
-👨‍💻 Author
-
-Saim Raza
-📫 GitHub Profile
-
----
-
 ⭐ If you found this project helpful or well-organized, please consider giving it a star!
+
 
 
 
