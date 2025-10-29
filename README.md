@@ -65,11 +65,12 @@ Design menu-driven console applications efficiently
    ```
 2. Run Project
  
-   main.cpp
+   bank_system.cpp
 
 ---
 
 ⭐ If you found this project helpful or well-organized, please consider giving it a star!
+
 
 
 
